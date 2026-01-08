@@ -15,14 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://img.shields.io/badge/Let%27s%20Code!-🚀-blue?style=for-the-badge&logo=github"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hey%20There%2C%20I%27m%20SunithaSreeCS!🎯"/>
 </p>
 
+## 👋 About Me
+```yaml
+name: Sunitha Sree
+role: PL/SQL Developer
+location: Tamil Nadu, India
+education: B.Tech Information Technology
+fields_of_interest:
+  - Data Engineering
+  - Backend development
+currently_learning:
+  - python,pyspark
+hobbies: [Reading,craftsperson,walking]
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-<p align="center">
-<img src="https://satori.dev/api/render?text=Hello%20GitHub!&fontSize=72&width=1000&height=200&color=white"/>
-</p>
