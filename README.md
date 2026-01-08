@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://wavy.dev/banner?type=wavy&color=violet&text=Welcome%20to%20My%20GitHub!&height=120"/>
+<img src="https://img.shields.io/badge/Let%27s%20Code!-🚀-blue?style=for-the-badge&logo=github"/>
 </p>
