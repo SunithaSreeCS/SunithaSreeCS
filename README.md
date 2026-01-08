@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
+<p align="center">
+<img src="https://satori.dev/api/render?text=Hello%20GitHub!&fontSize=72&width=1000&height=200&color=white"/>
+</p>
