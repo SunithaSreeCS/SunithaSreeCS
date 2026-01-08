@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hey%20There%2C%20I%27m%20Sunitha!🎯"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b1055,100:7597de&text=✨%20Hey%20Peeps!%20Sunitha%20Here%20🪄&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
 </p>
 
 ## 👋 About Me
