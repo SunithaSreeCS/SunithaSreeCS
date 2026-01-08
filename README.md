@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunithaSreeCS&layout=compact&theme=dracula"/>
+<img src="https://wavy.dev/banner?type=wavy&color=violet&text=Welcome%20to%20My%20GitHub!&height=120"/>
 </p>
