@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/Let%27s%20Code!-🚀-blue?style=for-the-badge&logo=github"/>
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
