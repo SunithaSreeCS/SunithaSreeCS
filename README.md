@@ -69,27 +69,17 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 Wizarding Activity Map
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunithaSreeCS&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SunithaSreeCS&theme=tokyonight" />
-</p>
-
-
----
-
 ## 🦉 Send an Owl (Connect with Me)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/sunitha-sree-chandrasekar-230575267">
     <img src="https://img.shields.io/badge/LinkedIn-2b1055?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sunithasekar2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-3a0ca3?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/SunithaSree/">
+    <img src="https://img.shields.io/badge/LeetCode-3a0ca3?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
