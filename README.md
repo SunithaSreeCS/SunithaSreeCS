@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 </p>
 
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b1055,100:7597de&text=✨%20Hey%20Peeps!%20Sunitha%20Here%20🪄&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
-</p>
-
 <p align="center">
   <em>Turning data into insights, one spell at a time ⚡</em>
 </p>
@@ -77,12 +72,13 @@ Here are some ideas to get you started:
 ## 📊 Wizarding Activity Map
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunithaSýSreeCS&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SunithaSreeCS&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunithaSreeCS&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SunithaSreeCS&theme=tokyonight" />
 </p>
+
 
 ---
 
