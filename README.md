@@ -30,4 +30,14 @@ fields_of_interest:
 currently_learning:
   - python,pyspark
 hobbies: [Reading,craftsperson,walking]
+```
 
+
+## 👩‍💻 About Me
+
+- 🎓 **B.Tech – Information Technology**
+- 💼 **Role:** PL/SQL Developer  
+- 🌍 **Location:** Tamil Nadu, India  
+- 💡 **Interests:** Data Engineering, Backend Development  
+- 🌱 **Currently Learning:** Python, PySpark  
+- 🎨 **Hobbies:** Reading, Craftwork, Walking
