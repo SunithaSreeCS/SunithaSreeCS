@@ -19,25 +19,86 @@ Here are some ideas to get you started:
 </p>
 
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:1a1a2e,100:3a0ca3&text=🧙‍♀️%20Hey%20Peeps,%20Sunitha%20Here!&fontColor=f5f3ce&fontSize=30&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b1055,100:7597de&text=✨%20Hey%20Peeps!%20Sunitha%20Here%20🪄&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&text=✨%20Hey%20Peeps!%20Sunitha%20Here&fontSize=28&animation=twinkling"/>
+  <em>Turning data into insights, one spell at a time ⚡</em>
 </p>
 
+---
 
-## 👋 About Me
-```yaml
-name: Sunitha Sree
-role: PL/SQL Developer
-location: Tamil Nadu, India
-education: B.Tech Information Technology
-fields_of_interest:
-  - Data Engineering
-  - Backend development
-currently_learning:
-  - python,pyspark
-hobbies: [Reading,craftsperson,walking]
-```
+## 🧙‍♀️ The Witch Behind the Code
+
+- 🎓 **B.Tech – Information Technology**
+- 💼 **Role:** PL/SQL Developer  
+- 🌍 **Location:** Tamil Nadu, India  
+- 💡 **Interests:** Data Engineering, Backend Development  
+- 🌱 **Currently Learning:** Python, PySpark  
+- 🎨 **Hobbies:** Reading, Craftwork, Walking  
+
+---
+
+## 🪄 Magical Skill Set (Tech Stack)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-2b1055?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-3a0ca3?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL/SQL-5f4bb6?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📜 Current Spell Practice (Learning Path)
+
+- ⚙️ Building **data pipelines** with PySpark  
+- 🗄️ Strengthening **SQL & database design**
+- ☁️ Exploring **data engineering tools & workflows**
+- 🧠 Improving **problem-solving & system thinking**
+
+---
+
+## 📂 The Spellbook (Projects)
+
+🧪 **Learning-Demo**  
+> My first project to understand Git & GitHub magic  
+🔗 https://github.com/SunithaSreeCS/Learning-Demo  
+
+🧪 **LocalRepo**  
+> Hands-on practice repository  
+🔗 https://github.com/SunithaSreeCS/LocalRepo  
+
+---
+
+## 📊 Wizarding Activity Map
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SunithaSýSreeCS&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunithaSreeCS&theme=tokyonight"/>
+</p>
+
+---
+
+## 🦉 Send an Owl (Connect with Me)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-2b1055?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-3a0ca3?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <em>“Code, like magic, is all about intention.”</em> ⚡
+</p>
