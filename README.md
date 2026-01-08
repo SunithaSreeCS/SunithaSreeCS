@@ -18,6 +18,16 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b1055,100:7597de&text=✨%20Hey%20Peeps!%20Sunitha%20Here%20🪄&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
 </p>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:1a1a2e,100:3a0ca3&text=🧙‍♀️%20Hey%20Peeps,%20Sunitha%20Here!&fontColor=f5f3ce&fontSize=30&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&text=✨%20Hey%20Peeps!%20Sunitha%20Here&fontSize=28&animation=twinkling"/>
+</p>
+
+
 ## 👋 About Me
 ```yaml
 name: Sunitha Sree
